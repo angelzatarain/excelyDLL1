@@ -1,0 +1,6 @@
+C:\Users\dai\Desktop\vs 3era parte 171880\pruebaDLL1\pruebaDLL1\obj\Debug\pruebaDLL1.csprojAssemblyReference.cache
+C:\Users\dai\Desktop\vs 3era parte 171880\pruebaDLL1\pruebaDLL1\obj\Debug\pruebaDLL1.csproj.CoreCompileInputs.cache
+C:\Users\dai\Desktop\vs 3era parte 171880\pruebaDLL1\pruebaDLL1\bin\Debug\pruebaDLL1.dll
+C:\Users\dai\Desktop\vs 3era parte 171880\pruebaDLL1\pruebaDLL1\bin\Debug\pruebaDLL1.pdb
+C:\Users\dai\Desktop\vs 3era parte 171880\pruebaDLL1\pruebaDLL1\obj\Debug\pruebaDLL1.dll
+C:\Users\dai\Desktop\vs 3era parte 171880\pruebaDLL1\pruebaDLL1\obj\Debug\pruebaDLL1.pdb

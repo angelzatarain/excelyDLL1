@@ -1,0 +1,15 @@
+﻿<Window x:Class="PruebaDLL2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PruebaDLL2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="232.45" Width="393.212">
+    <Grid>
+        <Label Content="Escribe algo:" HorizontalAlignment="Left" Margin="66,65,0,0" VerticalAlignment="Top" Width="89"/>
+        <Button Content="Dar Libro de Excel" HorizontalAlignment="Left" Margin="177,131,0,0" VerticalAlignment="Top" Width="120" Click="Button_Click"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="177,69,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" />
+
+    </Grid>
+</Window>
